@@ -1,7 +1,7 @@
- #List of pizza names
+ list of pizza names
 pizzas = ["pepperoni", "margherita", "bbq chicken", "hawaiian", "veggie"]
 
- #For loop to print a sentence about each pizza
+ for loop to print a sentence about each pizza
 for pizza in pizzas:
     print(f"I like {pizza} pizza.")
 
