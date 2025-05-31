@@ -1,8 +1,11 @@
-cubes = []  # Empty list to store cubes
+Question 7____
+solution _____
+cubes = [] 
 
-for number in range(1, 11):  # Loop from 1 to 10
-    cube = number ** 3       # Calculate the cube
-    cubes.append(cube)       # Add the cube to the list
+for number in range(1, 11):  
+    cube = number ** 3       
+    cubes.append(cube)      
 
-print(cubes)
-[1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]
+ print(cubes)
+[1, 8, 27, 64, 125, 216, 343, 
+ 512, 729, 1000]
