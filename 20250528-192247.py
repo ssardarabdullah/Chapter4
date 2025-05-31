@@ -1,4 +1,7 @@
- list of pizza names
+Question 1_____
+
+solution ______
+list of pizza names
 pizzas = ["pepperoni", "margherita", "bbq chicken", "hawaiian", "veggie"]
 
  for loop to print a sentence about each pizza
